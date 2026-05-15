@@ -1,6 +1,6 @@
 # Casos de Teste - Login
 
-|Validação de Campos----------|---------|-------------------|
+|Validação de Campos|----------|---------|-------------------|
 | ID | Cenário | Passos | Resultado Esperado |
 |----|----------|---------|-------------------|
 | CT-001 | Login válido | Inserir usuário válido e senha válida | Usuário acessa sistema |
