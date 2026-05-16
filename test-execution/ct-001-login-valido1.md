@@ -52,6 +52,11 @@ Validar que o usuário consegue realizar login com credenciais válidas no siste
 ---
 
 ## Evidência
-Print anexado na pasta:
+Print disponível em:
+evidences/ct-001-login-success.png
 
-Commit changes
+## 🧠 Observações
+O sistema apresentou comportamento esperado...
+
+## 👤 Responsável
+Wesllem S. Campos
