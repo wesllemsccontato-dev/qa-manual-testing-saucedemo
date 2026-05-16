@@ -1,6 +1,6 @@
 # Casos de Teste - Login
 
-Validação de Campos
+# Validação de Campos
 | ID | Cenário | Passos | Resultado Esperado |
 |----|----------|---------|-------------------|
 | CT-001 | Login válido | Inserir usuário válido e senha válida | Usuário acessa o sistema |
@@ -25,7 +25,7 @@ Validação de Campos
 
 ---
 
-Mensagens e Feedback
+# Mensagens e Feedback
 | ID | Cenário | Passos | Resultado Esperado |
 |----|----------|---------|-------------------|
 | CT-020 | Exibição da mensagem de erro | Inserir senha inválida | Sistema exibe mensagem de erro |
@@ -46,7 +46,7 @@ Mensagens e Feedback
 
 ---
 
-Segurança
+# Segurança
 | ID | Cenário | Passos | Resultado Esperado |
 |----|----------|---------|-------------------|
 | CT-035 | Bloqueio após múltiplas tentativas | Inserir senha incorreta várias vezes | Conta deve ser bloqueada temporariamente |
@@ -72,7 +72,7 @@ Segurança
 
 ---
 
-Usabilidade
+# Usabilidade
 | ID | Cenário | Passos | Resultado Esperado |
 |----|----------|---------|-------------------|
 | CT-055 | Navegação utilizando tecla TAB | Navegar pelos campos usando TAB | Foco deve seguir ordem correta |
@@ -98,7 +98,7 @@ Usabilidade
 
 ---
 
-Performance
+# Performance
 | ID | Cenário | Passos | Resultado Esperado |
 |----|----------|---------|-------------------|
 | CT-075 | Carregamento da tela | Abrir tela de login | Tela deve carregar rapidamente |
@@ -124,7 +124,7 @@ Performance
 
 ---
 
-Compatibilidade
+# Compatibilidade
 | ID | Cenário | Passos | Resultado Esperado |
 |----|----------|---------|-------------------|
 | CT-095 | Login no Google Chrome | Realizar login no Chrome | Sistema funciona corretamente |
@@ -148,9 +148,9 @@ Compatibilidade
 | CT-113 | Teclado virtual mobile | Abrir teclado em mobile | Campos permanecem acessíveis |
 | CT-114 | Sistemas operacionais distintos | Alternar entre sistemas | Sistema mantém funcionamento |
 
----
 
-Sessão
+
+# Sessão
 | ID | Cenário | Passos | Resultado Esperado |
 |----|----------|---------|-------------------|
 | CT-115 | Atualizar página logado | Atualizar página após login | Sessão permanece ativa |
@@ -166,7 +166,7 @@ Sessão
 
 ---
 
-Recuperação de Senha
+# Recuperação de Senha
 | ID | Cenário | Passos | Resultado Esperado |
 |----|----------|---------|-------------------|
 | CT-125 | Link “Esqueci minha senha” | Clicar no link | Sistema abre fluxo de recuperação |
