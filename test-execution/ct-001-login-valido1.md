@@ -55,8 +55,8 @@ Validar que o usuário consegue realizar login com credenciais válidas no siste
 Print disponível em:
 evidences/ct-001-login-success.png
 
-## 🧠 Observações
+## Observações
 O sistema apresentou comportamento esperado...
 
-## 👤 Responsável
+## Responsável
 Wesllem S. Campos
