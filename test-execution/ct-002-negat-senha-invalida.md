@@ -27,7 +27,7 @@ Validar que o sistema bloqueia o acesso quando uma senha inválida é informada.
 ## Passos executados
 1. Acessar a página de login
 2. Inserir usuário válido (standard_user)
-3. Inserir senha válida (senha_errada)
+3. Inserir senha inválida (senha_errada)
 4. Clicar no botão "Login"
 
 ---
