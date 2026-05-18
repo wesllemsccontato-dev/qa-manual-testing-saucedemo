@@ -58,7 +58,7 @@ Apesar de não afetar a funcionalidade do sistema, a linguagem utilizada pode re
 ---
 
 ## Evidência
-evidences/ct-002-invalid-password.png
+evidences/ct-002-negat-senha-invalida.png
 
 ---
 
