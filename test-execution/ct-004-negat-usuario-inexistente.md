@@ -57,7 +57,7 @@ evidences/ct-004-negat-usuario-inexistente.png
 ---
 
 ## Observações
-A aplicação apresentou comportamento esperado ao impedir acesso com senha inválida.
+A aplicação apresentou comportamento esperado ao impedir acesso com usuário inexistente.
 
 ---
 
