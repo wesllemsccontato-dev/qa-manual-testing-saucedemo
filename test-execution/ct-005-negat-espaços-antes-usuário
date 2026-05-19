@@ -26,7 +26,8 @@ Validar que o sistema bloqueia o acesso quando ha espaços inceridos antes do id
 
 ## Passos executados
 1. Acessar a página de login
-2. Inserir usuário inexistente (  standard_user)
+2. Inserir espaços depois do usuário:
+   "  standard_user"
 3. Inserir senha válida (secret_sauce)
 4. Clicar no botão "Login"
 
