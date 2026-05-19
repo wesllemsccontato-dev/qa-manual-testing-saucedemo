@@ -7,9 +7,9 @@
 | CT-002 | NEGAT | Senha inválida | Inserir senha incorreta | Sistema exibe mensagem de erro |
 | CT-003 | NEGAT | Usuário inválido | Inserir usuário inexistente | Sistema exibe mensagem de erro |
 | CT-004 | NEGAT | Usuário inexistente | Inserir usuário não cadastrado | Sistema exibe mensagem de usuário inválido |
-| CT-005 | NEGAT | Espaços antes do Usuário | Inserir espaços antes do e-mail | Sistema remove espaços ou valida corretamente |
-| CT-006 | NEGAT | Espaços depois do Usuário| Inserir espaços após o e-mail | Sistema remove espaços ou valida corretamente |
-| CT-007 | POSIT | Letras maiúsculas no e-mail | Inserir e-mail em maiúsculo | Sistema realiza login corretamente |
+| CT-005 | NEGAT | Espaços antes do Usuário | Inserir espaços antes do  Usuário | Sistema remove espaços ou valida corretamente |
+| CT-006 | NEGAT | Espaços depois do Usuário| Inserir espaços após o Usuário | Sistema remove espaços ou valida corretamente |
+| CT-007 | NEGAT | Letras maiúsculas no  Usuário | | Inserir letras maiúsculas  suário | Sistema realiza login corretamente |
 | CT-008 | POSIT | Campo senha mascarado | Digitar senha no campo senha | Caracteres devem aparecer mascarados |
 | CT-009 | NEGAT | Limite mínimo da senha | Inserir senha abaixo do mínimo | Sistema exibe validação |
 | CT-010 | NEGAT | Limite máximo da senha | Inserir senha muito longa | Sistema limita ou valida entrada |
