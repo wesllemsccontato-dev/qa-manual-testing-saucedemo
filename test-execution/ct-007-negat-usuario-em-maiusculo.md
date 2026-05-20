@@ -20,7 +20,7 @@ Validar que o sistema bloqueia o acesso quando ha letras maiúsculas inceridos n
 - Modo de execução: Aba anônima (Incognito)
 - Sistema operacional: Windows 11
 - Dados utilizados:
-  - Usuário: "  standard_user"
+  - Usuário: STANDARD_USER
   - Senha: secret_sauce
 ---
 
