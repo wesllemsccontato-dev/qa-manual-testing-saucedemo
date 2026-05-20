@@ -9,7 +9,7 @@
 | CT-004 | NEGAT | Usuário inexistente | Inserir usuário não cadastrado | Sistema exibe mensagem de usuário inválido |
 | CT-005 | NEGAT | Espaços antes do Usuário | Inserir espaços antes do  Usuário | Sistema remove espaços ou valida corretamente |
 | CT-006 | NEGAT | Espaços depois do Usuário| Inserir espaços após o Usuário | Sistema remove espaços ou valida corretamente |
-| CT-007 | NEGAT | Letras maiúsculas no  Usuário | Inserir letras maiúsculas  suário | Sistema deve validar conforme regra de case sensitivity |
+| CT-007 | NEGAT | Letras maiúsculas no  Usuário | Inserir letras maiúsculas Usuário | Sistema deve validar conforme regra de case sensitivity |
 | CT-008 | POSIT | Campo senha mascarado | Digitar senha no campo senha | Caracteres devem aparecer mascarados |
 | CT-009 | NEGAT | Limite mínimo da senha | Inserir senha abaixo do mínimo | Sistema exibe validação |
 | CT-010 | NEGAT | Limite máximo da senha | Inserir senha muito longa | Sistema limita ou valida entrada |
