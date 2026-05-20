@@ -8,7 +8,7 @@ Melhoria de UX / Usabilidade
 ---
 
 ## Resumo
-A mensagem de erro apresentada ao utilizar um usuário inexistente é genérica e também utilizada para outros tipos de falha de autenticação. Não especificando se usuário existe ou não, assim não sabendo oque errou.
+A mensagem de erro apresentada ao utilizar um usuário inexistente, é genérica e também utilizada para outros tipos de falha de autenticação. Não especificando se usuário existe ou não, assim não sabendo oque errou.
 
 ---
 
