@@ -9,7 +9,7 @@
 ---
 
 ## Objetivo
-Validar que o sistema não mostre a senha digitada no campo passord.
+- Validar que o sistema não mostre a senha digitada no campo passord.
 
 ---
 
@@ -32,7 +32,7 @@ Validar que o sistema não mostre a senha digitada no campo passord.
 ---
 
 ## Resultado obtido
-- Caracteres do campo senha  mascarados.
+- Caracteres do campo Senha  mascarados.
 
 ---
 
@@ -48,13 +48,13 @@ Validar que o sistema não mostre a senha digitada no campo passord.
 ---
 
 ## Evidência
-Print disponível em:
-evidences/ct-008-posit-campo-senha-mascarado.png
+- Print disponível em:
+  evidences/ct-008-posit-campo-senha-mascarado.png
 
 ---
 
 ## Observações
-A aplicação apresentou comportamento esperado ao impedir a vizualização da senha digitada trocando pelo carcter especial "*".
+- A aplicação apresentou comportamento esperado ao impedir a vizualização da senha digitada trocando pelo carcter especial "*".
 
 ---
 
