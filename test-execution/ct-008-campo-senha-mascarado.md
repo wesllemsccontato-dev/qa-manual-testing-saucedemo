@@ -4,7 +4,7 @@
 - ID: CT-008
 - Nome: Campo senha mascarado
 - Módulo: Autenticação (Login)
-- Tipo de teste: Funcional / Negativo
+- Tipo de teste: Funcional / Positivo
 
 ---
 
