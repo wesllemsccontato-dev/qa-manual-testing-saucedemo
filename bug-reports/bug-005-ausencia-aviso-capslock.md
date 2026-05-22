@@ -8,8 +8,7 @@ Melhoria de UX / Usabilidade
 ---
 
 ## Resumo
-O sistema apresentou comportamento funcional esperado ao bloquear autenticação com diferença de caixa no nome de usuário. Entretanto, a mensagem genérica pode dificultar a identificação da causa real do erro pelo usuário final, impactando a experiência de autenticação.
-
+O sistema não apresenta aviso visual quando a tecla Caps Lock está ativada durante o preenchimento dos campos de autenticação, podendo gerar falhas involuntárias de login devido à diferença entre letras maiúsculas e minúsculas em usuários e senhas.
 ---
 
 ## Ambiente
@@ -22,6 +21,7 @@ O sistema apresentou comportamento funcional esperado ao bloquear autenticação
 
 ## Cenários relacionados
 - CT-007 — Usuário em letras maiúsculas
+- CT-018 — Sensibilidade da senha
 
 ---
 
@@ -71,6 +71,7 @@ Adicionar indicador visual de Caps Lock ativado próximo aos campos de login e s
 
 ## Evidência
 evidences/ct-007-negat-usuario-em-maiusculo.png
+
 
 ---
 
