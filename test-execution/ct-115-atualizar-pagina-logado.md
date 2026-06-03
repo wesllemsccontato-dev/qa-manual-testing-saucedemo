@@ -32,7 +32,7 @@
     "secret_sauce".
 4. Clicar no botão Login.
 5. Confirmar acesso à página de produtos.
-5. Atualizar a página utilizando F5 ou o botão de atualização do navegador.
+6. Atualizar a página utilizando F5 ou o botão de atualização do navegador.
 
 ## Resultado obtido
 - O sistema validou corretamente as credenciais informadas e realizou a autenticação com sucesso.
