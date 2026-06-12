@@ -9,7 +9,7 @@
 ---
 
 ## Objetivo
-- Validar se o sistema impede acesso direto a páginas protegidas depois de fazer logout, atraves do botão voltar do navegador.
+- Validar se o sistema impede acesso direto as páginas protegidas depois de fazer logout, atraves do botão voltar do navegador.
 ---
 
 ## Ambiente de Teste
@@ -30,11 +30,11 @@
 2. Inserir usuário valido:
    "standard_user".
 3. Inserir senha valida:
-"secret_sauce".
+   "secret_sauce".
 4. Clicar no botão "Login".
 5. Clicar no perfil do usuario
 6. Clicar em Logout.
-7. Cliar em volar a paigina
+7. Clicar em voltar a página
 ---
 
 ## Resultado obtido
