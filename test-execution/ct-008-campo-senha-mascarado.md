@@ -9,7 +9,7 @@
 ---
 
 ## Objetivo
-- Validar que o sistema não mostre a senha digitada no campo passord.
+- Validar que o sistema não mostre a senha digitada no campo de password.
 
 ---
 
