@@ -9,7 +9,7 @@
 ---
 
 ## Objetivo
-Validar que o usuário consegue realizar login com a senha incerida pelo comandos coíar e colar.
+Validar que o usuário consegue realizar login com a senha incerida pelo comandos copíar e colar.
 
 ---
 
